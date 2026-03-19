@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "await-timeout": "^1.1.1",
+    "axios": "^1.13.4",
+    "chalk": "^5.6.2",
+    "cheerio": "^1.2.0",
+    "cloudscraper": "^4.6.0",
+    "colors": "^1.4.0",
+    "console-log-level": "^1.4.1",
+    "crypto": "^1.0.1",
+    "crypto-random-string": "^5.0.0",
+    "events": "^3.3.0",
+    "got": "^14.6.6",
+    "hpagent": "^1.2.0",
+    "https": "^1.0.0",
+    "minimist": "^1.2.8",
+    "random-useragent": "^0.5.0",
+    "request": "^2.88.2",
+    "superagent": "^10.3.0",
+    "superagent-proxy": "^3.0.0",
+    "url": "^0.11.4",
+    "zombie": "^6.1.4"
+  }
+}
